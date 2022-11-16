@@ -1,4 +1,4 @@
-# Cyb3rSecurity
+# EthicalHacking
 Provides the hacking information. And can also be used as the notes for the CEH Certification.
 
 - <a href="https://cyb3rtarun.blogspot.com/2022/11/cyberattacks.html" target="_blank">Types of Cyberattacks.</a>
